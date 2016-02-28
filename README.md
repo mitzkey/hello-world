@@ -1,2 +1,3 @@
 # hello-world
-Hello world. &lt;project description>
+Hello world.
+abc
